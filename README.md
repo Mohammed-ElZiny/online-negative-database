@@ -10,9 +10,9 @@ Department of Computer Science
 University of New Mexico 
 
 
-### made under advisor: PHD. Mohamed Hassan Ibrahim 
-### Department of computer science
-### University of Fayoum
+### supervisor: PHD. Mohamed Hassan Ibrahim
+ Department of computer science
+ University of Fayoum
 
 ![representation](representation.png)
 ![operations](operations.png)
